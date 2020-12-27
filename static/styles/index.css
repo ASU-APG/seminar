@@ -142,3 +142,17 @@ h1.big,p,h2,h3{
     opacity: 0;
     filter:alpha(opacity=0); /* IE support */
 }
+
+.border-table{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  text-align:justify
+}
+
+.person{
+  align: center;
+  text-align: center;
+}
